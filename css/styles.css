@@ -1,6 +1,12 @@
+html {
+    margin-bottom: 0.9375rem;
+}
+
 body {
     background-color: grey;
     margin: 0 3.125rem;
+
+
 }
 
 h1 {
